@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Transcendent-Dredge-Raven
-- 👀 I’m interested in learning to code and gain knowledge.
-- 🌱 I’m currently learning Python.
+- 👀 I’m interested in learning to code.
+- 🌱 I’m currently learning C++.
 
 <!--
 - 💞️ I’m looking to collaborate on ...
