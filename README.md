@@ -1,10 +1,2 @@
-- 👋 Hi, I’m @Transcendent-Dredge-Raven
-- 👀 I’m interested in learning to code.
-- 🌱 I’m currently learning C++.
-
-<!--
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-Transcendent-Dredge-Raven/Transcendent-Dredge-Raven is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi! My name is Daniel and I'm learning to Code. I'm currently learning C and C++.
+I will be making some games and some Cybersecurity related projects.
